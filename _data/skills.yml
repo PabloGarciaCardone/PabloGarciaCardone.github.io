@@ -12,9 +12,9 @@
       skill_name: jQuery
 
 - name: Languages
-      <center><li>English (Fluent) </li>
+      <left><li>English (Fluent) </li>
       <li> Spanish (Fluent) </li>
-      <li> French (Basic) </li></center>
+      <li> French (Basic) </li></left>
  
 - name: databases
   skills:
