@@ -1,10 +1,10 @@
-- name: <p style="color:blue;font-size:55px;"> <b> Business </b> </p>
-      <left><p>- Supply Chain Management
-      <p> - Social Media  
-      <p> - Leadership  
-      <p> - Customer Service  
-      <p> - Negotiation  
-      <p> - Data Entry </left></p>
+- name: <b> Business </p>
+      <left><li> Supply Chain Management </li>
+      <li> - Social Media </li>  
+      <li> - Leadership </li> 
+      <li> - Customer Service </li>  
+      <li> - Negotiation </li>
+      <li> - Data Entry </left></li>
 
 - name: Administration
         <left><li> Finance </li>
