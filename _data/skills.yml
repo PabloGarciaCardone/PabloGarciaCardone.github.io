@@ -12,8 +12,6 @@
       skill_name: jQuery
 
 - name: languages
-- class: postgresql-plain
- <ul>
   <li>English (Fluent)</li>
   <li>Spanish (Fluent)</li>
   <li>French  (Basic)</li>
