@@ -1,42 +1,27 @@
-- name: web
-  skills:
-    - class: html5-plain
-      skill_name: HTML5
-    - class: css3-plain
-      skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
+- name: Business 
+      <li> Supply Chain Management  </li>
+      <li> Social Media  </li>
+      <li> Leadership  </li>
+      <li> Customer Service  </li>
+      <li> Negotiation  </li>
+      <li> Data Entry </li></left>
+
+- name: Administration
+<li> Finance </li>
+<li> Project Management </li>
+<li> Data Entry </li>
 
 - name: Languages
       <left><li>English (Fluent) </li>
       <li> Spanish (Fluent) </li>
       <li> French (Basic) </li></left>
- 
-- name: databases
-  skills:
-    - class: postgresql-plain
-      skill_name: Postgresql
-    - class: mongodb-plain
-      skill_name: MongoDB
-    - class: mysql-plain
-      skill_name: MySQL
-
-- name: frontend frameworks
-  skills:
-    - class: react-plain
-      skill_name: React
-    - class: angularjs-plain
-      skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
-
-- name: backend frameworks
+      
+- name: Communication
+  <left><li> Team-Work  </li>
+      <li>   </li>
+      <li>   </li>
+      
+- name: Marketing
   skills:
     - class: rails-plain
       skill_name: Ruby-on-Rails
