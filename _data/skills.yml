@@ -13,9 +13,7 @@
 
 - name: languages
       skill_name: English (Fluent)
-  <li>Spanish (Fluent)</li>
-  <li>French  (Basic)</li>
-</ul>  
+ 
 - name: databases
   skills:
     - class: postgresql-plain
