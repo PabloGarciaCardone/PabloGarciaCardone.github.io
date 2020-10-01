@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pablo Garcia Cardone
-email: "r.levyts@gmail.com"
+email: "pablocardone@me.com"
 description: >
   Ambitious and eager graduate and entrepeneur, looking to share my life journey, as well as keep an organized list of projects in one place.
 about_me: >
@@ -23,7 +23,7 @@ about_me: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pablocardone.com" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/pablo-garcia-841077165/"
-github_link: "https://www.github.com/levytsroman"
+github_link: "https://www.github.com/pablogarciacardone"
 twitter_username: ""
 google_analytics_id: 'UA-117297510-1'
 select_options: clear-filters HTML5 CSS3 SCSS javaScript jQuery materialize charts.js React jekyll Ruby-on-Rails Sinatra front-end back-end finished current
