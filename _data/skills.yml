@@ -13,12 +13,8 @@
 
 - name: languages
   skills:
-    - class: javascript-plain
-      skill_name: JavaScript
-    - class: python-plain
-      skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
+      skill_name: English
+      skill_name: Spanish
 
 - name: databases
   skills:
