@@ -12,7 +12,8 @@
       skill_name: jQuery
 
 - name: languages
-  <li>English (Fluent)</li>
+- class: html5-plain
+      skill_name:English (Fluent)
   <li>Spanish (Fluent)</li>
   <li>French  (Basic)</li>
 </ul>  
