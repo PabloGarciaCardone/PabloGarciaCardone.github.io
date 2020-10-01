@@ -7,9 +7,9 @@
       <p> - Data Entry </left></p>
 
 - name: Administration
-        <left><li> Finance </li>
+        <left><ul><li> Finance </li>
         <li> Project Management </li>
-        <li> Data Entry </li></left>
+        <li> Data Entry </li></left></ul>
 
 - name: Languages
       <left><li>English (Fluent) </li>
