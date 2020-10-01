@@ -1,5 +1,5 @@
-- name: <b> Business </b>
-      <left><p style="font-size:21px;">- Supply Chain Management
+- name: <p style="font-size:28px;"><b> Business </b>
+      <left><p>- Supply Chain Management
       <p> - Social Media  
       <p> - Leadership  
       <p> - Customer Service  
@@ -7,9 +7,9 @@
       <p> - Data Entry </left></p>
 
 - name: Administration
-        <left><ul><li> Finance </li>
+        <left><li> Finance </li>
         <li> Project Management </li>
-        <li> Data Entry </li></left></ul>
+        <li> Data Entry </li></left>
 
 - name: Languages
       <left><li>English (Fluent) </li>
