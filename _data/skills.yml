@@ -13,8 +13,9 @@
 
 - name: languages
   skills:
-      skill_name: English
-      skill_name: Spanish
+      - class: English (Fluent)
+      - class: Spanish (Fluent)
+      - class: French  (Basic)
 
 - name: databases
   skills:
