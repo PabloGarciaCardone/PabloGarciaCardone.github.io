@@ -15,11 +15,10 @@
       <left><li>English (Fluent) </li>
       <li> Spanish (Fluent) </li>
       <li> French (Basic) </li></left>
-      
+     
 - name: Communication
-  <left><li> Team-Work  </li>
+  <left><li> Team-Work  </li></left>
    
-      
 - name: Marketing
   skills:
     - class: rails-plain
