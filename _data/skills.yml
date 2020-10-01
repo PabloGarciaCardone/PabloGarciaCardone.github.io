@@ -1,5 +1,5 @@
 - name: Business 
-      <li> Supply Chain Management  </li>
+      <left><li> Supply Chain Management  </li>
       <li> Social Media  </li>
       <li> Leadership  </li>
       <li> Customer Service  </li>
@@ -18,8 +18,7 @@
       
 - name: Communication
   <left><li> Team-Work  </li>
-      <li>   </li>
-      <li>   </li>
+   
       
 - name: Marketing
   skills:
