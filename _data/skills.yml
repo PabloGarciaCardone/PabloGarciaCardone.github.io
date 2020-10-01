@@ -7,24 +7,24 @@
       <li> Customer Service </li>
       <li> Delegation </li></left>
       
-- name: Administration
+- name: <b> Administration </b></p>
         <left><li> Finance </li>
         <li> Project Management </li>
         <li> Report Writing </li>
         <li> Note Taking </li>
         <li> Data Entry </li></left>
 
-- name: Languages
+- name: <b>Languages </b></p>
         <left><li>English (Fluent) </li>
         <li> Spanish (Fluent) </li>
         <li> French (Basic) </li></left>
      
-- name: Communication
+- name: <b> Communication </b></p>
         <left><li> Team-Work </li>
         <li> Presentations </li>
         <li> Consulting </li></left>
    
-- name: Marketing
+- name: <b> Marketing </b></p>
         <left><li> Digital Marketing  </li>
         <li> Facebook Ads </li>
         <li> Google Ads </li>
@@ -33,7 +33,7 @@
         <li> Content Writing  </li>
         <li> Market & Product Research </li></left>
     
-- name: Web Design
+- name: <b> Web Design </b></p>
         <left><li> WordPress  </li></left>
         <li> HTML (Intermediate) </li>
         <li> CSS (Intermediate) </li></left>
