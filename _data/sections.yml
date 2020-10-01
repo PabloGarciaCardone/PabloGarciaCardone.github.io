@@ -4,7 +4,7 @@ services:
   words: A list of services that I offer
   class: m7 projects
   border: projects
-  about:
+about:
   url: /about
   heading: Me
   words: Hi, I'm a programmer
