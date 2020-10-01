@@ -1,11 +1,9 @@
 - name: <b> Business </b></p>
-      <left><li> Leadership </li> 
-      <li> Strategy </li>
+      <left><li> Strategy </li>
       <li> Consulting </li>
       <li> Supply Chain </li>
       <li> Social Media </li>  
-      <li> Customer Service </li>
-      <li> Delegation </li></left>
+      <li> Customer Service </li></left>
       
 - name: <b> Administration </b></p>
         <left><li> Finance </li>
@@ -21,8 +19,7 @@
      
 - name: <b> Communication </b></p>
         <left><li> Team-Work </li>
-        <li> Presentations </li>
-        <li> Consulting </li></left>
+        <li> Presentations </li></left>
    
 - name: <b> Marketing </b></p>
         <left><li> Digital Marketing  </li>
