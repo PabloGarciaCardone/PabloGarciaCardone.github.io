@@ -11,8 +11,10 @@
     - class: jquery-plain
       skill_name: jQuery
 
-- name: languages
-      <li> English (Fluent)
+- name: Languages
+      <li>English (Fluent) </li>
+      <li> Spanish (Fluent) </li>
+      <li> French (Basic) </li>
  
 - name: databases
   skills:
