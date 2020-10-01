@@ -1,13 +1,18 @@
 - name: <b> Business </b></p>
       <left><li> Leadership </li> 
-      <li> Supply Chain Management </li>
+      <li> Strategy </li>
+      <li> Consulting </li>
+      <li> Supply Chain </li>
       <li> Social Media </li>  
-      <li> Customer Service </li>  
-      <li> Data Entry 
+      <li> Customer Service </li>
+      <li> Delegation </li></left>
+     
       
 - name: Administration
         <left><li> Finance </li>
         <li> Project Management </li>
+        <li> Report Writing </li>
+        <li> Note Taking </li>
         <li> Data Entry </li></left>
 
 - name: Languages
@@ -16,40 +21,20 @@
       <li> French (Basic) </li></left>
      
 - name: Communication
-      <left><li> Team-Work  </li></left>
+      <left><li> Team-Work  </li>
+      <li> Presentations  </li>
+      <li> Consulting </li></left>
    
 - name: Marketing
-  skills:
-    - class: rails-plain
-      skill_name: Ruby-on-Rails
-    - class: express-original
-      skill_name: Express
-    - class: nodejs-plain
-      skill_name: NodeJS
-    - class: django-plain
-      skill_name: Django
-
-- name: devops
-  skills:
-    - class: git-plain
-      skill_name: Git
-    - class: github-plain
-      skill_name: GitHub
-    - class: heroku-original
-      skill_name: Heroku
-    - class: docker-plain
-      skill_name: Docker
-
-- name: testing
-  skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
-
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
+      <left><li> Digital Marketing  </li>
+      <li> Facebook Ads  </li>
+      <li> Google Ads  </li>
+      <li> Telemarketing  </li>
+      <li> Copywriting  </li>
+      <li> Content Writing  </li>
+      <li> Market & Product Research  </li></left>
+    
+- name: Web Design
+  <left><li> WordPress  </li></left>
+        <li> HTML (Intermediate)  </li>
+        <li> CSS (Intermediate)  </li></left>
