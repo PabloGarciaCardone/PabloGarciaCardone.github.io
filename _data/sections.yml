@@ -3,7 +3,7 @@ projects:
   heading: Services
   words: A list of services that I offer
   class: m7 projects
-  border: projects
+  border: services
 about:
   url: /about
   heading: Me
