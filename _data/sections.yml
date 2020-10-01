@@ -1,7 +1,7 @@
 services:
   url: /services
   heading: Services
-  words: View the services that I offer
+  words: View the digital and online services that I offer
   class: m7 projects
   border: projects
 about:
