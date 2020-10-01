@@ -1,9 +1,9 @@
 - name: <b> Business </b>
-      <left><style="font-size:21px;">- Supply Chain Management
-      <p> - Social Media  </p>
-      <p> - Leadership  </p>
-      <p> - Customer Service  </p>
-      <p> - Negotiation  </p>
+      <left><p style="font-size:21px;">- Supply Chain Management
+      <p> - Social Media  
+      <p> - Leadership  
+      <p> - Customer Service  
+      <p> - Negotiation  
       <p> - Data Entry </left></p>
 
 - name: Administration
