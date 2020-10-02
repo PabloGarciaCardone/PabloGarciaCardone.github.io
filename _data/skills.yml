@@ -1,10 +1,11 @@
-- name: Business
+- name: Business </b>
 
        <left><li> Strategy </li>
        <li> Consulting </li>
        <li> Supply Chain </li>
        <li> Social Media </li>  
-       <li> Customer Service
+       
+       <li> Customer Service <left><li>
       
 - name: <b> Administration </b>
         <left><li> Finance </li>
