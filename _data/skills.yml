@@ -3,6 +3,7 @@
     - class: Business
       skill_name: <li>Leadership</li>
        <li>Strategy</li>
+       <li>Analytics</li>
        <li>Consulting</li>
        <li>Supply Chain</li>
        <li>Social Media</li>  
@@ -20,7 +21,7 @@
 - name: <b>Languages</b>
   skills:
     - class: Languages
-      skill_name: <li>English</li>
+      skill_name: <li>English (Fluent)</li>
        <li>Spanish (Fluent)</li>
        <li>French (Basic)</li>
        
@@ -30,6 +31,13 @@
       skill_name: <li>Team-Work</li>
        <li>Presentations</li>
        <li>Coaching</li>
+       
+- name: <b>Web Design</b>
+  skills:
+    - class: Web Design
+      skill_name: <li>WordPress</li>
+       <li>HTML (Intermediate)</li>
+       <li>CSS (Intermediate)</li>
        
 - name: <b>Marketing</b>
   skills:
@@ -41,13 +49,5 @@
        <li>Google Ads</li>
        <li>Copy-writing</li>
        <li>Content Writing</li>
-       <li>Facebook Ads</li>
        <li>Market and Product Research</li>
-
-- name: <b>Web Design</b>
-  skills:
-    - class: Web Design
-      skill_name: <li>WordPress</li>
-       <li>HTML (Intermediate)</li>
-       <li>CSS (Intermediate)</li>
 
