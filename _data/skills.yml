@@ -3,7 +3,7 @@
     - class: hdd
       skill_name: Hddd
       
-- name: <b> Business </b>
+- name: <b>Business</b>
   skill_name:
        <left><li> Strategy </li>
        <li> Consulting </li>
