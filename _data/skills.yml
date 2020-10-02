@@ -1,9 +1,9 @@
-- name: <b> Business </b></p>
+- name: <style><b> Business </b></p>
       <left><li> Strategy </li>
       <li> Consulting </li>
       <li> Supply Chain </li>
       <li> Social Media </li>  
-      <li> Customer Service </li></left>
+      <li> Customer Service </li></left></style>
       
 - name: <b> Administration </b></p>
         <left><li> Finance </li>
