@@ -1,15 +1,3 @@
----
-layout: not_homepage
-quote: Develop a passion for learning. If you do, you will never cease to grow.
-author: Anthony J. D'Angelo
----
-
-{% include quote.html quote=page.quote author=page.author %}
-
-<div class="project_list">
-<div class="project row">
-<img src="PabloGarciaCardone.github.io/assets/images/profile_picture.jpg" class="cover left col m5 s12"> 
-
 - id: 2
   title: Digital Marketing
   url: https://tic-or-treat.herokuapp.com/
