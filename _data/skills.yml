@@ -1,11 +1,11 @@
-- name: Business 
+- name: <b>Business</b>
   skills:
     - class: Business
       skill_name: <left><li> Strategy </li>
        <li> Consulting </li>
        <li> Supply Chain </li>
        <li> Social Media </li>  
-       <li> Customer Service <left></li>
+       <li> Customer Service </li>
        
  - name: <b>Administration</b>
   skills:
