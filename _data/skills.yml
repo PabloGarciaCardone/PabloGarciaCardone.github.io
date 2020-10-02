@@ -1,28 +1,29 @@
 - name: 
-      <b> Business </b>
-      <left><li> Strategy </li>
-      <li> Consulting </li>
-      <li> Supply Chain </li>
-      <li> Social Media </li>  
-      <li> Customer Service </li></left>
+      :
+       <b> Business </b>
+       <left><li> Strategy </li>
+       <li> Consulting </li>
+       <li> Supply Chain </li>
+       <li> Social Media </li>  
+       <li> Customer Service </li></left>
       
-- name: <b> Administration </b></p>
+- name: <b> Administration </b>
         <left><li> Finance </li>
         <li> Project Management </li>
         <li> Report Writing </li>
         <li> Note Taking </li>
         <li> Data Entry </li></left>
 
-- name: <b>Languages </b></p>
+- name: <b>Languages </b>
         <left><li>English (Fluent) </li>
         <li> Spanish (Fluent) </li>
         <li> French (Basic) </li></left>
      
-- name: <b> Communication </b></p>
+- name: <b> Communication </b>
         <left><li> Team-Work </li>
         <li> Presentations </li></left>
    
-- name: <b> Marketing </b></p>
+- name: <b> Marketing </b>
         <left><li> Digital Marketing  </li>
         <li> Facebook Ads </li>
         <li> Google Ads </li>
@@ -31,7 +32,7 @@
         <li> Content Writing  </li>
         <li> Market and Product Research </li></left>
     
-- name: <b> Web Design </b></p>
+- name: <b> Web Design </b>
         <left><li> WordPress  </li>
         <li> HTML (Intermediate) </li>
         <li> CSS (Intermediate) </li></left>
