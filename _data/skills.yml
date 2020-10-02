@@ -7,3 +7,11 @@
        <li>Social Media</li>  
        <li>Customer Service</li>
      
+ - name: <b>Administration</b>
+  skills:
+    - class: Administration
+      skill_name: <li>Finance</li>
+       <li>Project Management</li>
+       <li>Report Writing</li>
+       <li>Note Taking</li>  
+       <li>Data Entry</li>
