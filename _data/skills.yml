@@ -1,7 +1,7 @@
-- name: <b>Business</b>
+- name: <b>wd</b>
   skills:
     - class: Business
-      skill_name: <left><li> Strategy </li>
+      skill_name: <li> Strategy </li>
        <li> Consulting </li>
        <li> Supply Chain </li>
        <li> Social Media </li>  
