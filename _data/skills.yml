@@ -1,5 +1,5 @@
 - name: <b> Business </b>
-  skills:
+  skill_name:
        <left><li> Strategy </li>
        <li> Consulting </li>
        <li> Supply Chain </li>
