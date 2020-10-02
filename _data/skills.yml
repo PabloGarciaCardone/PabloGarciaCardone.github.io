@@ -1,3 +1,8 @@
+- name: web
+  skills:
+    - class: html5-plain
+      skill_name: HTML5
+      
 - name: <b> Business </b>
   skill_name:
        <left><li> Strategy </li>
