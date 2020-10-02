@@ -1,4 +1,7 @@
 - id: 2
+
+<div class="cover left col m5 s12" img src="PabloGarciaCardone.github.io/assets/images/profile_picture.jpg"> 
+
   title: Digital Marketing
   url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
