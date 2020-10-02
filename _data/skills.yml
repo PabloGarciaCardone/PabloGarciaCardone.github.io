@@ -1,7 +1,8 @@
 - name: <b>Business</b>
   skills:
     - class: Business
-      skill_name: <li>Strategy</li>
+      skill_name: <li>Leadership</li>
+       <li>Strategy</li>
        <li>Consulting</li>
        <li>Supply Chain</li>
        <li>Social Media</li>  
@@ -28,6 +29,7 @@
     - class: Communication
       skill_name: <li>Team-Work</li>
        <li>Presentations</li>
+       <li>Coaching</li>
        
 - name: <b>Marketing</b>
   skills:
