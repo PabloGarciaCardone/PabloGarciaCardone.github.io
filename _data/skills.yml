@@ -1,7 +1,11 @@
-- name: <b>wd</b>
+- name: <b>Business</b>
   skills:
-    - class: hdd
-      skill_name: <li>Hddd</li>
+    - class: Business
+      skill_name: <left><li> Strategy </li>
+       <li> Consulting </li>
+       <li> Supply Chain </li>
+       <li> Social Media </li>  
+       <li> Customer Service <left></li>
       
 - name: <b>Business</b>
   skill_name:
