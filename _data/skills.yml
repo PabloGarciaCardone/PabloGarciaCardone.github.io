@@ -32,13 +32,6 @@
        <li>Presentations</li>
        <li>Coaching</li>
        
-- name: <b>Web Design</b>
-  skills:
-    - class: Web Design
-      skill_name: <li>WordPress</li>
-       <li>HTML (Intermediate)</li>
-       <li>CSS (Intermediate)</li>
-       
 - name: <b>Marketing</b>
   skills:
     - class: Marketing
@@ -50,4 +43,12 @@
        <li>Copy-writing</li>
        <li>Content Writing</li>
        <li>Market and Product Research</li>
-
+       
+- name: <b>Web Design</b>
+  skills:
+    - class: Web Design
+      skill_name: <li>WordPress</li>
+       <li>GitHub</li>
+       <li>HTML (Intermediate)</li>
+       <li>CSS (Intermediate)</li>
+       
