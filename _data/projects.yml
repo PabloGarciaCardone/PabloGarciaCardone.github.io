@@ -1,4 +1,6 @@
-<div class="cover left col m5 s12" img src="PabloGarciaCardone.github.io/assets/images/profile_picture.jpg"> 
+<div class="project_list">
+<div class="project row">
+<img src="PabloGarciaCardone.github.io/assets/images/profile_picture.jpg" class="cover left col m5 s12"> 
 
 - id: 2
   title: Digital Marketing
