@@ -1,7 +1,7 @@
-- name: web
+- name: wd
   skills:
-    - class: html5-plain
-      skill_name: HTML5
+    - class: hdd
+      skill_name: Hddd
       
 - name: <b> Business </b>
   skill_name:
