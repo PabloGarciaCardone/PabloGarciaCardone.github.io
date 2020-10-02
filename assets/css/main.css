@@ -610,6 +610,7 @@ nav ul li {
   font-style: italic; }
 
 .skills_heading {
+  font-weight: bold;
   margin-top: 60px;
   font-size: 3rem; }
 
