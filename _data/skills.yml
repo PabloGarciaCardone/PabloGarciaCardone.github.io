@@ -1,11 +1,11 @@
 - name: <b> Business </b>
-
+  skills:
        <left><li> Strategy </li>
        <li> Consulting </li>
        <li> Supply Chain </li>
        <li> Social Media </li>  
+       <li> Customer Service <left></li>
        
-       <li> Customer Service <left></li></ol>   
 - name: <b> Administration </b>
         <left><li> Finance </li>
         <li> Project Management </li>
