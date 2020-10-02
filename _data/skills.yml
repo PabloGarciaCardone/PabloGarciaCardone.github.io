@@ -6,45 +6,4 @@
        <li>Supply Chain</li>
        <li>Social Media</li>  
        <li>Customer Service</li>
-       
- - name: <b>Administration</b>
-  skills:
-    - class: Administration
-      skill_name: <li>Finance</li>
-       <li>Project Management</li>
-       <li>Report Writing</li>
-       <li>Note Taking</li>  
-       <li>Data Entry</li>
-       
-- name: <b>Languages</b>
-  skills:
-    - class: Languages
-      skill_name: <li>English</li>
-       <li>Spanish (Fluent)</li>
-       <li>French (Basic)</li>
-       
-- name: <b>Communication</b>
-  skills:
-    - class: Communication
-      skill_name: <li>Team-Work</li>
-       <li>Presentations</li>
-       
-- name: <b>Marketing</b>
-  skills:
-    - class: Marketing
-      skill_name: <li> Digital Marketing</li>
-       <li>Facebook Ads</li>
-       <li>Google Ads</li>
-       <li>Tele-marketing</li>
-       <li>Google Ads</li>
-       <li>Copy-writing</li>
-       <li>Content Writing</li>
-       <li>Facebook Ads</li>
-       <li>Market and Product Research</li>
-
-- name: <b>Web Design</b>
-  skills:
-    - class: Web Design
-      skill_name: <li>WordPress</li>
-       <li>HTML (Intermediate)</li>
-       <li>CSS (Intermediate)</li>
+     
