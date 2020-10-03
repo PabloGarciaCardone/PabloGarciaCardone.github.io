@@ -8,8 +8,8 @@
                 ]
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/marketing.jpg
   images: [
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/Marketing1.jpg',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing1.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing2.jpg',
     '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
   ]
 
