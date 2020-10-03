@@ -801,8 +801,9 @@ button.fill:hover:before {
 
 .cover {
   background-color: #f9f0ae;
-  width: 40%;
-  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  }
   margin: 0;
   padding: 0; }
 
