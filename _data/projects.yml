@@ -10,7 +10,11 @@
   images: [
     'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing1.jpg',
     'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing2.jpg',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing3.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing4.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing5.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing6.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing7.jpg',
   ]
 
 - id: 3
