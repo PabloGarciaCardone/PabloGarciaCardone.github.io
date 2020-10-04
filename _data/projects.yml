@@ -67,9 +67,14 @@
                <br>
                <p><strong>For an easier side-to-side comparison of the available plans, please press here.</strong></p>
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
+                  health,
+                  weightlifting,
+                  home workouts,
+                  body weight workouts,
+                  fat loss,
+                  muscle gain,
+                  diet advice,
+                  workout advice,
                 ]
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/fitness.jpg
   images: [
