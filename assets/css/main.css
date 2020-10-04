@@ -780,7 +780,7 @@ button.fill:before {
   left: 0;
   right: 0;
   top: 100%;
-  z-index: -1;
+  z-index: +1;
   -webkit-transition: top 0.09s ease-in; }
 
 .buttons button.fill:hover {
