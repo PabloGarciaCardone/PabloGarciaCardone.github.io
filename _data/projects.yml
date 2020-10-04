@@ -41,8 +41,7 @@
   title: Online Fitness Coaching
   url: https://levytsroman.github.io/shootThingsGame/
   github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: 
-              <p style="text-align: center;"><strong>ONLINE FITNESS COACHING</strong></p>
+  description: <p style="text-align: center;"><strong>ONLINE FITNESS COACHING</strong></p>
               <ul>
               <li><strong>Putting effort but not achieving the results that you expect?</strong></li>
               <li><strong>Not happy with your diet?</strong></li>
@@ -52,11 +51,6 @@
               <li><strong>You always felt hungry with the diets that you tried?</strong></li>
               <li><strong>You begin a plan but then end up abandoning it because it&rsquo;s too unsustainable?</strong></li>
               </ul>
-              <p style="text-align: center;">&nbsp;<strong>WE CAN, AND WE WILL FIX ALL OF THAT, AND MORE, FOR YOU</strong></p>
-              <p style="text-align: center;"><strong>Choose between three different custom plans, made from scratch, just for you</strong></p>
-              <p style="text-align: center;"><strong>Achieve the physique that you always wanted to</strong></p>
-              <p>This online coaching service is provided by myself in partnership with the new owner of my previous website &ldquo;<a href="http://www.mygoalphysique.com">www.mygoalphysique.com</a>&rdquo;, and also other coaches that are US-based.</p>
-              <p><strong>Plans</strong></p>
   technologies: [
                   html5-plain,
                   css3-plain-wordmark,
