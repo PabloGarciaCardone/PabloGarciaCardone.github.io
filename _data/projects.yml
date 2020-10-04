@@ -30,7 +30,6 @@
                   sinatra-plain,
                   postgresql-plain,
                   heroku-original,
-                  materialize-plain
                 ]
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/consulting.jpg
   images: [
