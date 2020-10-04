@@ -34,11 +34,11 @@
                 ]
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/consulting.jpg
   images: [
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing1.jpg',
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing2.jpg',
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing3.jpg',
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing4.jpg',
-    'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing5.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/consulting1.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/consulting2.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/consulting3.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/consulting4.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/consulting5.jpg',
   ]
 - id: 4
   title: Online Fitness Coaching
