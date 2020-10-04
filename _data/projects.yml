@@ -52,7 +52,10 @@
                 ]
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/fitness.jpg
   images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
+    'PabloGarciaCardone.github.io/assets/images/project_images/fitness1.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/fitness2.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/fitness3.jpg',
+    'PabloGarciaCardone.github.io/assets/images/project_images/fitness4.jpg',
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
