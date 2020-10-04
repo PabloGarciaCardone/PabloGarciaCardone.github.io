@@ -3,9 +3,7 @@
   url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
   description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
-  technologies: [
-                  something
-                ]
+  
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/marketing.jpg
   images: [
     'PabloGarciaCardone.github.io/assets/images/project_images/tic_tac_toe/marketing1.jpg',
@@ -22,13 +20,7 @@
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
   description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  postgresql-plain,
-                ]
+ 
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/consulting.jpg
   images: [
     'PabloGarciaCardone.github.io/assets/images/project_images/consulting1.jpg',
@@ -74,16 +66,7 @@
                <p>You can also read the online coaching services FAQ’s <a href="https://mygoalphysique.com/online-coaching-faqs/">here</a>.</p>
                <br>
                <p><strong>For an easier side-to-side comparison of the available plans, please press </strong><a href="https://mls7bx9wtmlj.i.optimole.com/aemsR58-l_oMnUi-/w:auto/h:auto/q:71/https://mygoalphysique.com/wp-content/uploads/2020/08/PlanComparison.png">here</a>.</p>
-  technologies: [
-                  health,
-                  weightlifting,
-                  home workouts,
-                  body weight workouts,
-                  fat loss,
-                  muscle gain,
-                  diet advice,
-                  workout advice,
-                ]
+
   cover: PabloGarciaCardone.github.io/assets/images/project_covers/fitness.jpg
   images: [
     'PabloGarciaCardone.github.io/assets/images/project_images/fitness1.jpg',
