@@ -45,7 +45,7 @@
   ]
 
 - id: 3
-  title: E-Commerce Consulting
+  title: E-Commerce 
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
   description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
