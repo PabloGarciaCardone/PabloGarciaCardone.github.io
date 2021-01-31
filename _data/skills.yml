@@ -14,23 +14,22 @@
     - class: Admin
       skill_name: <li>Finance</li>
        <li>Project Management</li>
-       <li>Report Writing</li>
-       <li>Note Taking</li>  
-       <li>Data Entry</li>
+       <li>Reporting</li>
+       <li>Minute Taking</li>  
+       <li>Data Processing</li>
 
 - name: <b>Languages</b>
   skills:
     - class: Languages
       skill_name: <li>English (Fluent)</li>
        <li>Spanish (Fluent)</li>
-       <li>French (Basic)</li>
        
 - name: <b>Social</b>
   skills:
     - class: Communication
       skill_name: <li>Team-Work</li>
        <li>Presentations</li>
-       <li>Coaching</li>
+       <li>Mentoring</li>
        
 - name: <b>Marketing</b>
   skills:
@@ -39,8 +38,8 @@
        <li>Facebook Ads</li>
        <li>Google Ads</li>
        <li>Tele-marketing</li>
-       <li>Google Ads</li>
-       <li>Copy-writing</li>
+       <li>Lead Generation</li>
+       <li>Copy Writing</li>
        <li>Content Writing</li>
        <li>Market and Product Research</li>
        
@@ -48,8 +47,7 @@
   skills:
     - class: Currently Learning
       skill_name: <li>WordPress</li>
-       <li>GitHub</li>
-       <li>HTML</li>
-       <li>CSS</li>
-       <li>Python</li>
+       <li>Data Analytics</li>
+       <li>Mandarin</li>
+
        
